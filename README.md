@@ -6,7 +6,7 @@ A digital etch-a-sketch was created by using Visual Hardware Description Languag
 
 ## Getting Started
 
-[These instructions]https://medium.com/@taggartbonham/etch-a-sketch-b1c360846848) will get you a copy of the project up and running on your local machine for development and testing purposes.
+[These instructions](https://medium.com/@taggartbonham/etch-a-sketch-b1c360846848) will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Materials
 
